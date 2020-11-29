@@ -1,5 +1,5 @@
 name: khmer_fonts
-description: A new Flutter package.
+description: A Khmer fonts is easy to use without think about to import font file into your pubspec.yaml it just import 1 file and call it in text style.
 version: 0.0.4
 #author:
 homepage: https://github.com/chornthorn/khmer_fonts
