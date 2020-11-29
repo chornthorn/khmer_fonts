@@ -22,3 +22,6 @@ A Khmer fonts Flutter package for `Android` / `iOS` / `Web ...`.
 
 * You can use all khmer font that have in google fonts
 
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/36778896/100543239-85afe800-3281-11eb-9a0f-cf1bb46a0793.png)
