@@ -1,6 +1,6 @@
 name: khmer_fonts
 description: A new Flutter package.
-version: 0.0.1
+version: 0.0.2
 #author:
 homepage: https://github.com/chornthorn/khmer_fonts
 
@@ -26,6 +26,75 @@ flutter:
   #
   # example:
   fonts:
+    - family: Taprom
+      fonts:
+        - asset: lib/src/fonts/Taprom/Taprom-Regular.ttf
+    - family: Suwannaphum
+      fonts:
+        - asset: lib/src/fonts/Suwannaphum/Suwannaphum-Regular.ttf
+    - family: Siemreap
+      fonts:
+        - asset: lib/src/fonts/Siemreap/Siemreap-Regular.ttf
+    - family: Preahvihear
+      fonts:
+        - asset: lib/src/fonts/Preahvihear/Preahvihear-Regular.ttf
+    - family: Odor Mean Chey
+      fonts:
+        - asset: lib/src/fonts/Odor_Mean_Chey/OdorMeanChey-Regular.ttf
+    - family: Nokora
+      fonts:
+        - asset: lib/src/fonts/Nokora/Nokora-Regular.ttf
+        - asset: lib/src/fonts/Nokora/Nokora-Bold.ttf
+          weight: 700
+    - family: Moul Pali
+      fonts:
+        - asset: lib/src/fonts/Moulpali/Moulpali-Regular.ttf
+    - family: Metal
+      fonts:
+        - asset: lib/src/fonts/Metal/Metal-Regular.ttf
+    - family: Koulen
+      fonts:
+        - asset: lib/src/fonts/Koulen/Koulen-Regular.ttf
+    - family: Khmer
+      fonts:
+        - asset: lib/src/fonts/Khmer/Khmer-Regular.ttf
+    - family: Kdam Thmor
+      fonts:
+        - asset: lib/src/fonts/Kdam_Thmor/KdamThmor-Regular.ttf
+    - family: Kantumruy
+      fonts:
+        - asset: lib/src/fonts/Kantumruy/Kantumruy-Regular.ttf
+        - asset: lib/src/fonts/Kantumruy/Kantumruy-Bold.ttf
+          weight: 700
+        - asset: lib/src/fonts/Kantumruy/Kantumruy-Light.ttf
+    - family: Hanuman
+      fonts:
+        - asset: lib/src/fonts/Hanuman/Hanuman-Regular.ttf
+        - asset: lib/src/fonts/Hanuman/Hanuman-Bold.ttf
+          weight: 700
+    - family: Freehand
+      fonts:
+        - asset: lib/src/fonts/Freehand/Freehand-Regular.ttf
+    - family: Fasthand
+      fonts:
+        - asset: lib/src/fonts/Fasthand/Fasthand-Regular.ttf
+    - family: Dangrek
+      fonts:
+        - asset: lib/src/fonts/Dangrek/Dangrek-Regular.ttf
+    - family: Content
+      fonts:
+        - asset: lib/src/fonts/Content/Content-Regular.ttf
+        - asset: lib/src/fonts/Content/Content-Bold.ttf
+          weight: 700
+    - family: Chenla
+      fonts:
+        - asset: lib/src/fonts/Chenla/Chenla-Regular.ttf
+    - family: Bokor
+      fonts:
+        - asset: lib/src/fonts/Bokor/Bokor-Regular.ttf
+    - family: Bayon
+      fonts:
+        - asset: lib/src/fonts/Bayon/Bayon-Regular.ttf
     - family: Angkor
       fonts:
         - asset: lib/src/fonts/Angkor/Angkor-Regular.ttf
