@@ -25,3 +25,6 @@ A Khmer fonts Flutter package for `Android` / `iOS` / `Web ...`.
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/36778896/100543239-85afe800-3281-11eb-9a0f-cf1bb46a0793.png)
+![2](https://user-images.githubusercontent.com/36778896/100543334-18508700-3282-11eb-81f0-ba661fe6d9e9.png)
+![3](https://user-images.githubusercontent.com/36778896/100543355-3322fb80-3282-11eb-9f92-4eab901c1807.png)
+
