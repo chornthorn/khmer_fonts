@@ -3,8 +3,8 @@
 ///  FlutterGen
 /// *****************************************************
 
-class FontFamily {
-  FontFamily._();
+class KhmerFonts {
+  KhmerFonts._();
 
   static const String angkor = 'Angkor';
   static const String battambang = 'Battambang';
