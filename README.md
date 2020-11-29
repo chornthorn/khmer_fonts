@@ -10,13 +10,15 @@ A Khmer fonts Flutter package for `Android` / `iOS` / `Web ...`.
 
 ## How to use
 
-```Text('ប្រទេសកម្ពុជា:',
+```
+     Text('ប្រទេសកម្ពុជា:',
           style: TextStyle(
           fontFamily: KhmerFonts.angkor,
           fontSize: 50,
           package: 'khmer_fonts',
         ),
-      ),```
+      ),
+```
 
 * You can use all khmer font that have in google fonts
 
