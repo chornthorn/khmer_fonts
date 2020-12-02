@@ -1,5 +1,5 @@
 # Khmer Fonts
-![Pub Version](https://img.shields.io/pub/v/khmer_fonts?style=flat-square)
+![Pub Version](https://img.shields.io/Khmer/v/khmer_fonts?style=flat-square)
 [![Bless](https://img.shields.io/badge/bless-God-brightgreen?style=flat-square)](https://lunagao.github.io/BlessYourCodeTag/)
 
 A Khmer fonts Flutter package for `Android` / `iOS` / `Web ...`.
